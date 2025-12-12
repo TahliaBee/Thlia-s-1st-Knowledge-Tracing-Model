@@ -1,8 +1,0 @@
-{
-    "n_problem": 17751,
-    "n_skill": 149,
-    "n_question_type": 5,
-    "train": 3335,
-    "test": 828,
-    "max_sequence": 1061
-}
