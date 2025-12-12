@@ -1,1 +1,0 @@
-# Thlia-s-1st-Knowledge-Tracing-Model
